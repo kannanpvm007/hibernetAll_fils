@@ -1,0 +1,6 @@
+com\kgisl\service\StudentServiceImpl.class
+com\kgisl\service\StudentService.class
+com\kgisl\dao\StudentDAOImpl.class
+com\kgisl\controller\StudentController.class
+com\kgisl\entity\Student.class
+com\kgisl\dao\StudentDAO.class
